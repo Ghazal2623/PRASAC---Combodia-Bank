@@ -36,3 +36,8 @@ This repository includes:
 - Basic Java classes illustrating backend integration principles.
 
 *(Note: Actual PRASAC production code is proprietary and not shared.)*
+
+Author: Ghazal Ashraf
+Role: Java Developer / Software Consultant
+Email: ghazal.ashraf24@gmail.com
+LinkedIn: (https://www.linkedin.com/in/ghazal-ashraf)
